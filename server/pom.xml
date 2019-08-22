@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>SpringVue Server</name>
-	<description>Base project for Vue & Spring Boot Web</description>
+	<description>Base project for Vue and Spring Boot Web</description>
 
 	<properties>
 		<java.version>1.8</java.version>
